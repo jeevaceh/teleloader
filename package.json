@@ -1,0 +1,27 @@
+{
+  "name": "teleloader",
+  "version": "1.0.0",
+  "description": "this app let you to download all  telegram images,docs,videos,etc .. easily",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm test index.js"
+  },
+  "keywords": [
+    "#teleloader",
+    "dowmload",
+    "telegram",
+    "telegram",
+    "images",  
+    "downloas",
+    "telegram",
+    "node.js"
+  ],
+  "author": "Jeeva K",
+  "license": "ISC",
+  "dependencies": {
+    "mime-db": "^1.52.0",
+    "readline-sync": "^1.4.10",
+    "telegram": "^2.13.6"
+  }
+}

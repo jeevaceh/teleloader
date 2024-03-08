@@ -1,0 +1,5 @@
+{
+  "apiId": "",//number as app id you can get it in "https://my.telegram.org/app"
+  "apiHash": "",//
+  "sessionId": ""//leave this as emty
+}
